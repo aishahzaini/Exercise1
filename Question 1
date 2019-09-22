@@ -1,0 +1,12 @@
+#include<iostream>
+using namespace std;
+
+int main()
+{
+ cout <<"University : Universiti Teknikal Malaysia, Melaka\n";
+ cout <<"Faculty : FKE\n";
+ cout <<"Programme : BENC\n\n\n";
+ cout <<"My name is Muhammad Bin Abdul Rahman, I am from Johor.";
+ 
+ return 0;
+ }
